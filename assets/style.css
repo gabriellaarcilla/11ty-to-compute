@@ -10,10 +10,10 @@
   --font-family-list: monospace;
 
   /* Colors you'll see cascade through the elements */
-  --color-bg: #fef1f0; /* Used for the page body background */
+  --color-bg: #f6ccea; /* Used for the page body background */
   --color-bg-alt: #ffffff; /* Used for social icons on hover */
   --color-text-main: #000000; /* List text ann social icons on hover */
-  --color-primary: #ba160a; /* Headers and borders */
+  --color-primary: #fd7da2; /* Headers and borders */
   --color-header: #fcc9c5;
 }
 
